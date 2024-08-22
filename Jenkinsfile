@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clonar Repositório') {
             steps {
-                git branch: 'master', url: 'https://github.com/Leonardo-Marques/exempleci'
+                git branch: 'main', url: 'https://github.com/Leonardo-Marques/exempleci'
             }
         }
 

@@ -1,0 +1,8 @@
+PASS src/tests/LoginPage.test.js
+  √ permite apenas números no campo de login (38 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.235 s
+Ran all test suites.

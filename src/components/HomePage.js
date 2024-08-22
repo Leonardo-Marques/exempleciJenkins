@@ -6,7 +6,7 @@ const HomePage = () => {
     <div className="home-container">
       <div className="home-box">
         <h1>Hello World</h1>
-        <h2>Github + jenkins</h2>
+        <h2>Github + jenkins hook</h2>
       </div>
     </div>
   );

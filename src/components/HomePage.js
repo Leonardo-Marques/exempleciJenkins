@@ -7,6 +7,7 @@ const HomePage = () => {
       <div className="home-box">
         <h1>Hello World</h1>
         <h2>Github + jenkins hook</h2>
+        <h2>trigger????</h2>
       </div>
     </div>
   );
